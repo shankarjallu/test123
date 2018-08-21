@@ -1,0 +1,7 @@
+testAEM/core/package-info.class
+testAEM/core/schedulers/SimpleScheduledTask.class
+testAEM/core/schedulers/SimpleScheduledTask$Config.class
+testAEM/core/filters/LoggingFilter.class
+testAEM/core/servlets/SimpleServlet.class
+testAEM/core/models/HelloWorldModel.class
+testAEM/core/listeners/SimpleResourceListener.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>test - UI content</comment>
+<entry key="createdBy">gowrishankarjallu</entry>
+<entry key="name">test.ui.content</entry>
+<entry key="created">2018-08-20T23:54:08.075-0400</entry>
+<entry key="groupId">testAEM</entry>
+<entry key="version">1.0</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">test</entry>
+<entry key="description">UI content package for test</entry>
+<entry key="artifactId">test.ui.content</entry>
+<entry key="path">/etc/packages/test/test.ui.content.zip</entry>
+</properties>
